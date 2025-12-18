@@ -2,7 +2,7 @@
 ## Nuttaphon
 1. TestA
 2. TestB
-1. Good morning
-2. Good afternoon
-3. Good evening
-4. Good night
+* Good morning
+* Good afternoon
+* Good evening
+* Good night
